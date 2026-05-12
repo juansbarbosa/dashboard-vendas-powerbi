@@ -1,9 +1,9 @@
 # 📊 Dashboard de Vendas — Análise de Indicadores
 
-**Ferramenta:** Power BI
-**Período dos dados:** Janeiro de 2019 a Junho de 2022
-**Tipo de dados:** Base fictícia para fins educacionais
-**Autor:** Juan Silva — São Bernardo do Campo, SP
+- **Ferramenta:** Power BI
+- **Período dos dados:** Janeiro de 2019 a Junho de 2022
+- **Tipo de dados:** Base fictícia para fins educacionais
+- **Autor:** Juan Silva — São Bernardo do Campo, SP
 
 ---
 
