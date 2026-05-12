@@ -1,4 +1,4 @@
-📊 Dashboard de Vendas — Análise de Indicadores
+Dashboard de Vendas — Análise de Indicadores
 Ferramenta: Power BI
 Período dos dados: Janeiro de 2019 a Junho de 2022
 Tipo de dados: Base fictícia para fins educacionais
@@ -34,7 +34,8 @@ Funil com alta concentração nas etapas iniciais (Prospecção e Negociação),
 Campinas (37,79%) e Sorocaba (34,91%) concentram aproximadamente 72,7% dos valores negociados, indicando forte dependência dessas regiões
 
 
-Visualizações do dashboard
-Mostrar Imagem
+Visualizações do dashboard:
+<img width="1600" height="898" alt="Dashboard de Vendas — Análise de Indicadores" src="https://github.com/user-attachments/assets/89c0faba-daf4-4f03-8108-9d0110b92321" />
+
 
 O relatório completo com análise detalhada está disponível no arquivo relatorio_vendas.pdf neste repositório.
