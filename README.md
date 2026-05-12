@@ -17,12 +17,12 @@ Power Query (tratamento e transformação de dados)
 
 O que foi analisado
 
-Receita prevista vs realizada — comparação entre valores orçados e negociados
-Descontos aplicados — impacto financeiro das negociações
-Evolução mensal — comportamento dos valores ao longo do tempo
-Distribuição por setor — TI, Marketing, Comercial, Financeiro, Logística, entre outros
-Funil de projetos — distribuição por status (Prospecção, Negociação, Em andamento, Finalizado)
-Análise geográfica — concentração por cidade (Campinas, Sorocaba, Piracicaba)
+Receita prevista vs realizada — comparação entre valores orçados e negociados;
+Descontos aplicados — impacto financeiro das negociações;
+Evolução mensal — comportamento dos valores ao longo do tempo;
+Distribuição por setor — TI, Marketing, Comercial, Financeiro, Logística, entre outros;
+Funil de projetos — distribuição por status (Prospecção, Negociação, Em andamento, Finalizado);
+Análise geográfica — concentração por cidade (Campinas, Sorocaba, Piracicaba);
 
 
 Principais insights
